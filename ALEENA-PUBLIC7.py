@@ -269,6 +269,9 @@ def banner():
 | | | || |____| |___| |___| |\  || | | |
 
 \_| |_/\_____/\____/\____/\_| \_/\_| |_/
+ '''
+
+	cetak(nel(ban, style='red'))
 
       \x1b[1;97m[<\>(:]\x1b[1;97mauthor: ALEENA KHAN (\x1b[1;92m\x1b[1;97m)
 
@@ -988,7 +991,7 @@ def cracktouch(idf,pwv):
 
 	ses = requests.Session()
 
-	sys.stdout.write('\r%s[S.S.G]%s/%s / OK:%s / CP:%s / %s%s%s !'%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x));sys.stdout.flush()
+	sys.stdout.write('\r%s[ALEENA]%s/%s / OK:%s / CP:%s / %s%s%s !'%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x));sys.stdout.flush()
 
 	for pw in pwv:
 
@@ -1150,7 +1153,7 @@ def crackmbasic(idf,pwv):
 
 	ses = requests.Session()
 
-	sys.stdout.write('\r%s [S.S.G] %s/%s / OK:%s / CP:%s / %s%s%s !'%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x));sys.stdout.flush()
+	sys.stdout.write('\r%s [ALEENA] %s/%s / OK:%s / CP:%s / %s%s%s !'%(bi,loop,len(id2),ok,cp,int(pers),str(fff),x));sys.stdout.flush()
 
 	for pw in pwv:
 
