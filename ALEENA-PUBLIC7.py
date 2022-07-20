@@ -270,13 +270,13 @@ def banner():
 
 \_| |_/\_____/\____/\____/\_| \_/\_| |_/
 
-      \x1b[1;97m[<\>(:]\x1b[1;97mauthor: ALEENA KHAN (\x1b[1;92mS.S.G\x1b[1;97m)
+      \x1b[1;97m[<\>(:]\x1b[1;97mauthor: ALEENA KHAN (\x1b[1;92m\x1b[1;97m)
 
       \x1b[1;97m[<\>(:]\x1b[1;97mstatus: premium
 
       \x1b[1;97m[<\>(:]\x1b[1;97mWhatsapp :NOI HAI
 
-      \033[41m\033[1;37m SMALL PROGRAMER \033[41m\033[1;37mS.S.G\x1b[0m
+      \033[41m\033[1;37m SMALL PROGRAMER \033[41m\033[1;37m\x1b[0m
 
       \033[47m\033[1;31m You Know \033[41m\033[1;37m who am i  \x1b[0m\n'''
 
