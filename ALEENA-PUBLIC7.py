@@ -44,11 +44,11 @@ ses=requests.Session()
 
 princp=[]
 
-try:
+
 
 	
 
-except Exception as e:
+
 
 	print('[[\x1b[1;92m•\x1b[1;97m] [\x1b[1;96mSXS')
 
