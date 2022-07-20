@@ -50,7 +50,7 @@ princp=[]
 
 
 
-	print('[[\x1b[1;92m•\x1b[1;97m] [\x1b[1;96mSXS')
+	
 
 prox=open('.prox.txt','r').read().splitlines()
 
